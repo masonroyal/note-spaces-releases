@@ -1,7 +1,7 @@
 {
   "id": "note-spaces",
   "name": "Note Spaces",
-  "version": "0.40.2",
+  "version": "0.40.3",
   "minAppVersion": "1.8.7",
   "description": "Arc-browser-style spaces for your notes: per-space pinned and temporary tabs, idle auto-archive with per-space history.",
   "author": "Mason",
